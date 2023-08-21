@@ -1,7 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TheCarBun
+![](https://imgur.com/y19Qdts.png)
+
+
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! My name is TheCarBun
 =================================================================================================================================
 
-Discord Bots, Servers and Web Developer
+Discord Bots, Discord Servers and Web Developer
 ---------------------------------------
 
 I've been learning to code since school
