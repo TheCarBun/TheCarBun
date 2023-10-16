@@ -1,35 +1,59 @@
-![](https://imgur.com/y19Qdts.png)
+![](https://imgur.com/vRuKjYn.png)
+<!-- Made the banner using Canva -->
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Hello!+I+am+TheCarBun;I+make+Discord+Servers+and+Discord+Bots" alt="Typing SVG" /></a></p>
+
+<!-- HTML -->
+<!-- All icons from https://icons8.com -->
+<div align="center">
+<details>
+<summary><b>💪 SKILLS 💪</b></summary>
+<hr>
+<br>
+<img align="right" position="center" width=350px src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif">
 
 
-Hi! My name is TheCarBun
-=================================================================================================================================
+𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌: 
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="64" height="64"/>
+<br><br>
+𝕴 𝖚𝖘𝖚𝖆𝖑𝖑𝖞 𝖈𝖔𝖉𝖊 𝖎𝖓:
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height=""/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/>
+<br><br>
+𝕴 𝖆𝖑𝖘𝖔 𝖐𝖓𝖔𝖜:
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="64" height="64"/>
+<br><br><br>
+</details>
 
-Discord Bots, Discord Servers and Web Developer
----------------------------------------
+<details>
+<summary> <b>🔗 SOCIALS 🔗</b> </summary>
+<hr>
+𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊:
+<br>
 
-I've been learning to code since school
+<a href="https://linkedin.com/in/subhopriyo" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="twitter-circled"/></a>
+<a href="https://instagram.com/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://discord.gg/Haqsvzmhxz" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/64/discord-logo.png" alt="discord-logo"/></a>
+<a href="mailto:thecarbun.1412@gmail.com"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
+<a href="http://thecarbun.netlify.app/"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/domain.png" alt="domain"/></a>
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Website](http://thecarbun.netlify.app/)
-* ✉️  You can contact me at [thecarbun.1412@gmail.com](mailto:thecarbun.1412@gmail.com)
-* 🚀  I'm currently working on [Discord Servers and Bots Building](http://discord.gg/Haqsvzmhxz)
-* 🧠  I'm learning more on coding bots and using APIs
-* 🤝  I'm open to collaborating on any coding related projects
+</details>
+<br>
 
-### Skills
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thecarbun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecarbun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhopriyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhopriyo" height="30" width="40" /></a>
-<a href="https://instagram.com/thecarbun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thecarbun" height="30" width="40" /></a>
-<a href="https://discord.gg/thecarbun" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="thecarbun" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/thecarbun"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thecarbun" /></a></p><br><br>
+<b>SUPPORT ME</b>
+<hr>
+<br>
+<a href="https://ko-fi.com/thecarbun"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="64" width="268" alt="thecarbun"></a>
+</div>
 
 
