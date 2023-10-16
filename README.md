@@ -43,7 +43,7 @@
 <a href="https://linkedin.com/in/subhopriyo" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="twitter-circled"/></a>
 <a href="https://instagram.com/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a>
-<a href="https://discord.gg/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/64/discord-logo.png" alt="discord-logo"/></a>
+<a href="https://discord.gg/Haqsvzmhxz" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/64/discord-logo.png" alt="discord-logo"/></a>
 <a href="mailto:thecarbun.1412@gmail.com"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
 <a href="http://thecarbun.netlify.app/"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/domain.png" alt="domain"/></a>
 
