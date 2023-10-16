@@ -12,20 +12,32 @@
 <summary><b>💪 SKILLS 💪</b></summary>
 <hr>
 <br>
+<img align="right" position="center" width=350px src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif">
+
+
+𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌: 
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="64" height="64"/>
+<br><br>
+𝕴 𝖚𝖘𝖚𝖆𝖑𝖑𝖞 𝖈𝖔𝖉𝖊 𝖎𝖓:
+<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height=""/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="64" height="64"/>
+<br><br>
+𝕴 𝖆𝖑𝖘𝖔 𝖐𝖓𝖔𝖜:
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="64" height="64"/>
 <br><br><br>
 </details>
 
 <details>
 <summary> <b>🔗 SOCIALS 🔗</b> </summary>
 <hr>
+𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊:
 <br>
 
 <a href="https://linkedin.com/in/subhopriyo" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a>
