@@ -12,7 +12,7 @@
 <summary><b>💪 SKILLS 💪</b></summary>
 <hr>
 <br>
-<img align="right" position="center" width=350px src="https://i.pinimg.com/originals/1e/d2/f2/1ed2f24a0444ee7a3f59f6aaa5f9d092.gif">
+<img align="right" position="center" width=350px src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 
 
 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌: 
