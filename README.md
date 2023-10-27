@@ -55,7 +55,7 @@
 
 <b>💙 SUPPORT ME 💙</b>
 <br><br>
-<a href="https://ko-fi.com/thecarbun"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="64" width="268" alt="thecarbun"></a>
+<a href='https://ko-fi.com/Z8Z4K5FEX' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 
