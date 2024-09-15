@@ -1,9 +1,10 @@
-![](https://imgur.com/vRuKjYn.png)
+![image](https://github.com/user-attachments/assets/9cbbd85f-6c22-4138-b6db-1cac83733710)
+
 <!-- Made the banner using Canva -->
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00AAFF&center=true&vCenter=true&multiline=true&random=false&width=500&height=80&lines=Hello!+I+am+TheCarBun;I+make+Discord+Servers+and+Discord+Bots" alt="Typing SVG" /></a></p>
+  <b>Hello I'm CarBun</b> <br>
+I develop AI Webapps using Streamlit and currently researching about Machine Learning. I'm also interested in Web Development where I try to create awesome looking websites using just HTML CSS and JS.</p>
 
 <p align="center"><a href="https://resume.io/r/H3r8ayY7e">✨ Mʏ Rᴇsᴜᴍᴇ ✨ </a>  </p>
 
@@ -43,11 +44,10 @@
 <br>
 
 <a href="https://linkedin.com/in/subhopriyo" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="twitter-circled"/></a>
-<a href="https://instagram.com/thecarbun" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a>
+<a href="https://twitter.com/subhopriyo" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/188/twitter-circled.png" alt="twitter-circled"/></a>
 <a href="https://discord.gg/Haqsvzmhxz" target="blank"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/64/discord-logo.png" alt="discord-logo"/></a>
 <a href="mailto:thecarbun.1412@gmail.com"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/></a>
-<a href="http://thecarbun.netlify.app/"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/domain.png" alt="domain"/></a>
+<!--<a href="http://thecarbun.netlify.app/"><img width="64" height="64" src="https://img.icons8.com/3d-fluency/94/domain.png" alt="domain"/></a> -->
 
 <hr>
 </details>
