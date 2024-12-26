@@ -24,7 +24,10 @@ I develop AI Webapps using Streamlit and currently researching about Machine Lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 <br><br>
-<b>💙 SUPPORT ME 💙</b>
-<br><br>
+
+## Socials
+<a target="_blank" href="https://twitter.com/subhopriyo" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
+<a target="_blank" href="https://www.linkedin.com/in/subhopriyo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+
 <a href='https://ko-fi.com/Z8Z4K5FEX' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
