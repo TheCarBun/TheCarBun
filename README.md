@@ -1,14 +1,11 @@
 ![GitHub Banner (1)](https://github.com/user-attachments/assets/eebd223d-4b70-4059-9555-9747b6a6e8d5)
 
-<!-- Made the banner using Canva -->
-
-<p align="center">
-  <b>Hello I'm CarBun</b> <br>
-I develop AI Webapps using Streamlit and currently researching about Machine Learning. I'm also interested in Web Development where I try to create awesome looking websites using just HTML CSS and JS.</p>
-
-<p align="center"><a href="https://resume.io/r/H3r8ayY7e">✨ Mʏ Rᴇsᴜᴍᴇ ✨ </a>  </p>
-
 <div align="center">
+<a href="https://flowcv.com/resume/bghwrw7svd" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge"  alt="website"></a>
+
+**Hello I'm CarBun!** <br>
+I am a **Python Developer** and I am currently a student in **India** pursuing Bachelors in Computer Science and Engineering. I love creating software solutions related to AI and I am always looking for new challenges.
+
 <br>
 
 
