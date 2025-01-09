@@ -16,8 +16,8 @@ I am a <b>Python Developer</b> and I am currently a student in <b>India</b> purs
 <br>
 
 ## GitHub Stats
-  <a href="https://github.com/TheCarBun#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCarBun&theme=transparent&hide_border=false#gh-dark-mode-only" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" height="150" alt="languages graph"  /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCarBun&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 <br>
 
 ## Socials
