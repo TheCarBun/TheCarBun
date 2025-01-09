@@ -16,14 +16,8 @@ I am a <b>Python Developer</b> and I am currently a student in <b>India</b> purs
 <br>
 
 ## GitHub Stats
-<!-- Dark Theme -->
-  <a href="https://github.com/TheCarBun#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCarBun&theme=dark&hide_border=false#gh-dark-mode-only" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" height="150" alt="languages graph"  /></a>
-  
-  <!-- Light Theme -->
-  <a href="https://github.com/TheCarBun#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCarBun&hide_border=false#gh-light-mode-only" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only" height="150" alt="languages graph"  /></a>
-
+  <a href="https://github.com/TheCarBun#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCarBun&theme=transparent&hide_border=false#gh-dark-mode-only" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" height="150" alt="languages graph"  /></a>
 <br>
 
 ## Socials
