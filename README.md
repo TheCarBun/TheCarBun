@@ -1,17 +1,42 @@
 <div>
 <img align="right" src="https://github.com/user-attachments/assets/06051d58-b7f9-4848-9cfd-e3f4b80dc34f">
-<b>Hello I'm CarBun!</b> <br>
-I am a <b>Python Developer</b> and I am currently a student in <b>India</b> pursuing Bachelors in Computer Science and Engineering. I love creating software solutions related to AI and I am always looking for new challenges.
+<b>👋🏼 Hello I'm CarBun!</b> <br>
+📍 From: <b>India</b> <br>
+💻 Working full time as an <b>AI Engineer</b>. <br>
+🎓 Did my <b>Bachelors in Computer Science and Engineering</b>. <br>
+<b><< Yes I'm still hungry for more >></b> <br>
 <br><br>
 <a  href="https://flowcv.com/resume/bghwrw7svd" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge"  alt="website"></a>
-<a target="_blank" href="https://thecarbun.dev" style="display: inline-block;"><img src="https://img.shields.io/badge/thecarbun.dev-red?style=for-the-badge"  alt="website"></a>
+<a target="_blank" href="https://thecarbun.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/thecarbun.github.io-red?style=for-the-badge"  alt="website"></a>
 </div>
 
 <div align="center">
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### AI Agent Frameworks
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C?style=for-the-badge&logo=langchain)![LangFlow](https://img.shields.io/badge/langflow-%23000000?style=for-the-badge&logo=langflow) ![Static Badge](https://img.shields.io/badge/Agno-%23ff4016?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/openai-%23412991?style=for-the-badge&logo=openai)
+
+
+#### Model Providers
+![OpenAI](https://img.shields.io/badge/openai-%23412991?style=for-the-badge&logo=openai)![Gemini](https://img.shields.io/badge/Gemini-%23000?style=for-the-badge&logo=googlegemini&logoColor=%2345B6F2)![Ollama](https://img.shields.io/badge/Ollama-%23fff?style=for-the-badge&logo=ollama&logoColor=000)
+
+#### VectorDB
+![FAISScpu](https://img.shields.io/badge/FAISS-%23000?style=for-the-badge) ![AstraDB](https://img.shields.io/badge/AstraDB-%23000?style=for-the-badge&logo=langflow) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23000?style=for-the-badge)
+
+
+#### Web
+![NodeJS](https://img.shields.io/badge/Node.js-%23000?style=for-the-badge&logo=Node.js&logoColor=%235FA04E) ![React](https://img.shields.io/badge/React-%23000?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+
+![Flask](https://img.shields.io/badge/Flask-%233BABC3?style=for-the-badge&logo=Flask&logoColor=%23000) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### Deployments
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
