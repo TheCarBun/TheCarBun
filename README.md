@@ -1,10 +1,13 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TheCarBun.TheCarBun&"  />
+</div>
+
 <div>
 <img align="right" src="https://github.com/user-attachments/assets/06051d58-b7f9-4848-9cfd-e3f4b80dc34f">
 <b>👋🏼 Hello I'm CarBun!</b> <br>
 📍 From: <b>India</b> <br>
 💻 Working full time as an <b>AI Engineer</b>. <br>
 🎓 Did my <b>Bachelors in Computer Science and Engineering</b>. <br>
-<b><< Yes I'm still hungry for more >></b> <br>
 <br><br>
 <a  href="https://flowcv.com/resume/bghwrw7svd" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge"  alt="website"></a>
 <a target="_blank" href="https://thecarbun.github.io" style="display: inline-block;"><img src="https://img.shields.io/badge/thecarbun.github.io-red?style=for-the-badge"  alt="website"></a>
@@ -43,11 +46,12 @@
 ## GitHub Stats
 
 <a href="https://git-stats.streamlit.app/">
-  <img src="https://streak-stats.demolab.com?user=TheCarBun&theme=transparent&fire=EB5454&currStreakLabel=EB5454&currStreakNum=EB7F14" alt="languages graph"/> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=TheCarBun&theme=transparent&hide_border=false&show_icons=true&count_private=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCarBun&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 <br>
 </a>
+
+Looking for more stats? Check out **[Git-Stats WebApp](https://git-stats.streamlit.app/)**
 
 ## Socials
 
